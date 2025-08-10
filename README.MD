@@ -1,7 +1,7 @@
 # Overview
 This repository contains the CAD, config, and other files for a custom CNC housing. The goal was to make a destkop case that could hold all of the following:
 -  Power Supply
--  Three CM556 Stepper Motor Drivers
+-  Three DM556 Stepper Motor Drivers
 -  The Tinybee board
 -  Three aircraft connectors to go to the machine itself
 -  A connector for the Z-Probe
