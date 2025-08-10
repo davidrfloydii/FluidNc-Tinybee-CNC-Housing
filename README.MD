@@ -11,3 +11,6 @@ This repository contains the CAD, config, and other files for a custom CNC housi
 -  A potentiometer for the GRBL_SPD spindle speed
 -  A power connection and switch
 
+The case has a wrap around cover allowing for access to the components.
+
+![Case Design](/IMAGES/Front_With_Cover_Off.png)
